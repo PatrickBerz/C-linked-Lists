@@ -1,0 +1,12 @@
+EMPLOYEE RECORDS for ACME CORPORTION
+FIRST NAME     LAST NAME     INITIAL     ID NUMBER     HOURS WORKED     WAGE     GROSS PAY
+Louis          Nelson        R           3467          40               17.75    710.00
+Carter         Wilkes        T           6534          42               20.25    850.50
+Mary           Connor        C           2390          40               22.50    900.00
+Jennifer       Patton        N           4231          35               18.90    661.50
+Jimmy          Masterson     T           5719          40               25.75    1030.00
+Diane          Styles        M           6091          38               21.75    826.50
+Kevin          Hodges        E           6723          30               15.00    450.00
+Carrol         Britton       P           2845          40               20.25    810.00
+Emily          Craft         A           7120          40               23.50    940.00
+Ramona         Johnson       S           6419          40               27.50    1100.00
